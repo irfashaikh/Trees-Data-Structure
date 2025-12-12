@@ -1,2 +1,2 @@
 # Trees-Data-Structure
-Implementation od tree data structure.
+Implementation of tree data structure.
